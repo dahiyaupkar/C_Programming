@@ -1,0 +1,9 @@
+/* Write a program to print Name on the first line and surname on the second line   */
+
+#include<stdio.h>
+main()
+{
+    printf("Upkar");
+    printf("Dahiya");
+    getch();
+}
